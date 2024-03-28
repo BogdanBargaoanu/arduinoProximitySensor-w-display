@@ -41,7 +41,7 @@ The Arduino measures the distance using the ultrasonic sensor and provides feedb
 ```bash
 git clone https://github.com/BogdanBargaoanu/arduinoProximitySensor-w-display.git
 ```
-2. Open the Arduino IDE and load the sketch (`ProximitySensor.ino`).
+2. Open the Arduino IDE and load the sketch (`senzor_distanta.ino`).
 3. Make sure to install the required libraries (`Adafruit_GFX` and `Adafruit_SSD1306`) in the Arduino IDE.
 
 ## Usage
